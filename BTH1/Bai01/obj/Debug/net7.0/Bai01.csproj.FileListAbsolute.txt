@@ -1,0 +1,15 @@
+D:\Learn\Y4\IT008\Lab\Lab1\BTH1_DoVanDat_22520207\Bai01\bin\Debug\net7.0\Bai01.exe
+D:\Learn\Y4\IT008\Lab\Lab1\BTH1_DoVanDat_22520207\Bai01\bin\Debug\net7.0\Bai01.deps.json
+D:\Learn\Y4\IT008\Lab\Lab1\BTH1_DoVanDat_22520207\Bai01\bin\Debug\net7.0\Bai01.runtimeconfig.json
+D:\Learn\Y4\IT008\Lab\Lab1\BTH1_DoVanDat_22520207\Bai01\bin\Debug\net7.0\Bai01.dll
+D:\Learn\Y4\IT008\Lab\Lab1\BTH1_DoVanDat_22520207\Bai01\bin\Debug\net7.0\Bai01.pdb
+D:\Learn\Y4\IT008\Lab\Lab1\BTH1_DoVanDat_22520207\Bai01\obj\Debug\net7.0\Bai01.csproj.AssemblyReference.cache
+D:\Learn\Y4\IT008\Lab\Lab1\BTH1_DoVanDat_22520207\Bai01\obj\Debug\net7.0\Bai01.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn\Y4\IT008\Lab\Lab1\BTH1_DoVanDat_22520207\Bai01\obj\Debug\net7.0\Bai01.AssemblyInfoInputs.cache
+D:\Learn\Y4\IT008\Lab\Lab1\BTH1_DoVanDat_22520207\Bai01\obj\Debug\net7.0\Bai01.AssemblyInfo.cs
+D:\Learn\Y4\IT008\Lab\Lab1\BTH1_DoVanDat_22520207\Bai01\obj\Debug\net7.0\Bai01.csproj.CoreCompileInputs.cache
+D:\Learn\Y4\IT008\Lab\Lab1\BTH1_DoVanDat_22520207\Bai01\obj\Debug\net7.0\Bai01.dll
+D:\Learn\Y4\IT008\Lab\Lab1\BTH1_DoVanDat_22520207\Bai01\obj\Debug\net7.0\refint\Bai01.dll
+D:\Learn\Y4\IT008\Lab\Lab1\BTH1_DoVanDat_22520207\Bai01\obj\Debug\net7.0\Bai01.pdb
+D:\Learn\Y4\IT008\Lab\Lab1\BTH1_DoVanDat_22520207\Bai01\obj\Debug\net7.0\Bai01.genruntimeconfig.cache
+D:\Learn\Y4\IT008\Lab\Lab1\BTH1_DoVanDat_22520207\Bai01\obj\Debug\net7.0\ref\Bai01.dll
