@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Learn\\Y4\\IT008\\Lab\\Lab1\\BTH1_DoVanDat_22520207\\Bai06\\Bai06.csproj",
+      "projectUniqueName": "D:\\Learn\\Y4\\IT008\\Lab\\Repo\\BTH1\\Bai06\\Bai06.csproj",
       "projectName": "Bai06",
-      "projectPath": "D:\\Learn\\Y4\\IT008\\Lab\\Lab1\\BTH1_DoVanDat_22520207\\Bai06\\Bai06.csproj",
+      "projectPath": "D:\\Learn\\Y4\\IT008\\Lab\\Repo\\BTH1\\Bai06\\Bai06.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\Learn\\Y4\\IT008\\Lab\\Lab1\\BTH1_DoVanDat_22520207\\Bai06\\obj\\",
+      "outputPath": "D:\\Learn\\Y4\\IT008\\Lab\\Repo\\BTH1\\Bai06\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

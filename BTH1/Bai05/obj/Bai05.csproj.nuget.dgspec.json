@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Learn\\Y4\\IT008\\Lab\\Lab1\\BTH1_DoVanDat_22520207\\Bai05\\Bai05.csproj": {}
+    "D:\\Learn\\Y4\\IT008\\Lab\\Repo\\BTH1\\Bai05\\Bai05.csproj": {}
   },
   "projects": {
-    "D:\\Learn\\Y4\\IT008\\Lab\\Lab1\\BTH1_DoVanDat_22520207\\Bai05\\Bai05.csproj": {
+    "D:\\Learn\\Y4\\IT008\\Lab\\Repo\\BTH1\\Bai05\\Bai05.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Learn\\Y4\\IT008\\Lab\\Lab1\\BTH1_DoVanDat_22520207\\Bai05\\Bai05.csproj",
+        "projectUniqueName": "D:\\Learn\\Y4\\IT008\\Lab\\Repo\\BTH1\\Bai05\\Bai05.csproj",
         "projectName": "Bai05",
-        "projectPath": "D:\\Learn\\Y4\\IT008\\Lab\\Lab1\\BTH1_DoVanDat_22520207\\Bai05\\Bai05.csproj",
+        "projectPath": "D:\\Learn\\Y4\\IT008\\Lab\\Repo\\BTH1\\Bai05\\Bai05.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\Learn\\Y4\\IT008\\Lab\\Lab1\\BTH1_DoVanDat_22520207\\Bai05\\obj\\",
+        "outputPath": "D:\\Learn\\Y4\\IT008\\Lab\\Repo\\BTH1\\Bai05\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
